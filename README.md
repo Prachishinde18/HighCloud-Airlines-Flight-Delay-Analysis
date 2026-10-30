@@ -46,9 +46,9 @@ This project analyzes airline flight data to understand flight delays, cancellat
 The dataset was used for educational and analytical purposes. Refer to the linked Kaggle dataset for the data source.
 
 ## Dashboard Preview
-1.Excel Dashboard
-![Excel Dashboard](./Excel_Dashboard.PNG)
+**1.Excel Dashboard**
+[Excel Dashboard]
 
-2.Power BI Dashboard
-![Power BI Dashboard](./Power%20BI_Dashboard.PNG)
+**2.Power BI Dashboard**
+[Power BI Dashboard]
 
