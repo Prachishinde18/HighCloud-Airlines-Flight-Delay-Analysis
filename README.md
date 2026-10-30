@@ -47,8 +47,7 @@ The dataset was used for educational and analytical purposes. Refer to the linke
 
 ## Dashboard Preview
 **1.Excel Dashboard**
-[Excel Dashboard]
 
 **2.Power BI Dashboard**
-[Power BI Dashboard]
+
 
